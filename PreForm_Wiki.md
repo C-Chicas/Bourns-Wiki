@@ -15,7 +15,7 @@ The main **disadvantage** of SLA printers are the material sensitivities and war
 
 ![image](https://manufactur3dmag.com/wp-content/uploads/2018/02/Above-3D-Printed-parts-made-in-FDM-SLA-SLS-technology-from-left-to-right-Image-Credit-Formlabs.jpg)
 
-## How to Prepare Export from Creo
+## How to Prepare to Export from Creo
 #### At Bourns Inc. we use Creo as our flavor of CADing software (computer-aided design).
 Once you've successfully finished CADing the part you wish to prototype, follow the steps below:
 1. file -> save as -> save as copy
