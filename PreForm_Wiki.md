@@ -1,4 +1,4 @@
-# Best Practices While Using PreForm
+# Best Practices for Utilizing PreForm
 #### Welcome Bourns Inc. Intern!
 In this wiki, you will learn the best way to handle navigating the challenging world of SLA resin printing.
 
@@ -27,7 +27,7 @@ Once you've successfully finished CADing the part you wish to prototype, follow 
 
 ##### Congrats! You've successfully exported an STL with a high probability of it working well within PreForm!
 
-## Using PreForm Form 3
+## Using the From 3 on PreFrom
 #### PreForm creates SLA printers for the consumer market and has an intuitive/easy to use software.
 1. Launch **PreForm** (_If you do not have PreForm installed, download it from their official website and ask IT to install it for you._)
 ![image](https://github.com/C-Chicas/Bourns-Wiki/blob/main/Images/preform_1.png)
