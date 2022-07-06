@@ -1,4 +1,4 @@
-# Best Practices for Utilizing PreForm
+# Wiki for using PreForm
 #### Welcome Bourns Inc. Intern!
 In this wiki, you will learn the best way to handle navigating the challenging world of SLA resin printing.
 
